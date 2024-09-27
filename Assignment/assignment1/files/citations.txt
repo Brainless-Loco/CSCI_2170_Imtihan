@@ -1,0 +1,5 @@
+Images: Theislikerice, CC BY 4.0 https://creativecommons.org/licenses/by/4.0, via Wikimedia Commons
+
+Tutorials: Mark Otto, J.T. Bootstrap. Bootstrap · The most popular HTML, CSS, and JS library in the world. https://getbootstrap.com/. 
+
+Text: The dummy text in this assignment was generated using the built-in feature in my code editor. This has been generated on my computer by the code IDE that I have used and has not been copied from any source, either online or otherwise.
